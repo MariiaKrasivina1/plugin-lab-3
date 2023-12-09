@@ -4,8 +4,6 @@
 
 ## Features
 
-Плагин позволяет искать информацию в VS CODE сразу через GOOGLE:
-
-\!\[feature X\]\(images/feature-x.png\)
+Плагин позволяет искать информацию в VS CODE сразу через GOOGLE. Просто зажмите command shift p и введите google search.
 
 **Enjoy!**
