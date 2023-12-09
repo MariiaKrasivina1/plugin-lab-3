@@ -1,6 +1,6 @@
 # GOOGLE PLUGIN README
 
-Это the README для расширения "GOOGLE PLUGIN" в VS CODE.
+Это README для расширения "GOOGLE PLUGIN" в VS CODE.
 
 ## Features
 
